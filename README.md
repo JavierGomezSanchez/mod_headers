@@ -1,4 +1,4 @@
-Mod-headers
+Secured apache headers with Mod-headers
     
     Header always set Access-Control-Allow-Origin "https://website.com"
     Header always set Strict-Transport-Security "max-age=31536000; includeSubdomains;"
